@@ -2,7 +2,7 @@
 
 ## Setting variables
 
-In TypeScript you can re-declare a variable, as long as your new value is the same type as the original. There can be explicit or implicit types.
+In TypeScript you can redeclare a variable, as long as your new value is the same type as the original. There can be explicit or implicit types.
 
 ### Strings
 
@@ -17,13 +17,15 @@ let userInput = "";
 console.log(honorific, userInput);
 /* output is: 'Dr. Saly' */
 
-// We can re-declare vars in js:
+// We can redeclare vars in js:
 
 honorific = false;
 
 console.log(honorific, userInput);
 /* new output is: false 'Saly' */
 ```
+
+In TypeScript
 
 ```ts
 let honorific = "Professor"; // Implicit type of string
