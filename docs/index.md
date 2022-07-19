@@ -8,7 +8,7 @@ The official [TypeScript Tooling in 5 minutes](https://www.typescriptlang.org/do
 
 Go to the next page to see how to add TypeScript to a Vue 3 application.
 
-## The foundation of TS
+## The foundations of TS
 
 Basically, TypeScript is JavaScript with type annotations. So each variable is linked to its type (number, string, boolean, null). We'll explore this more in detail later.
 
