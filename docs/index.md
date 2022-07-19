@@ -1,1 +1,1 @@
-# Why Typestript?
+# TypeScript or JavaScript?
