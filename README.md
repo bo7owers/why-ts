@@ -1,6 +1,6 @@
 # Set up
 
-I am using vitepress to create this site. To contribute:
+I am using [vitepress](https://vitepress.vuejs.org/) to create this site. To contribute:
 1 Fork the repo
 2 Clone your fork into your computer
 3 Run `npm install`
