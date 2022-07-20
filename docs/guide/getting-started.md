@@ -2,7 +2,10 @@
 
 ## Setting variables
 
-In TypeScript you can redeclare a variable, as long as your new value is the same type as the original. There can be explicit or implicit types.
+In JavaScript you can redeclare a variable as many times as you want, without any restrictions.
+In TypeScript you can redeclare a variable, as long as the type of your new value has the same type as the original. There can be explicit or implicit types.
+
+The following example showcases how variables are declared using `strings` in JS vs TS. The same principals apply to every type.
 
 ### Strings
 
@@ -45,4 +48,4 @@ Type 'boolean' is not assignable to type 'string'.(2322)
 */
 ```
 
-The TypeScript code won't run until you you fix the error. When you work with big apps, this can save time, money and won't cause issues in the future.
+The TypeScript code won't run until you you fix the error. When you work with big apps, this can save time, money and will prevent issues in the future.

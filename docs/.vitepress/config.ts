@@ -1,9 +1,8 @@
 const guideSidebar = {
   text: "Features",
   items: [
-    { text: "What are types", link: "/guide/what-are-types" },
-    { text: "Types of types", link: "/guide/types-of-types" },
     { text: "Getting started", link: "/guide/getting-started" },
+    { text: "What are types?", link: "/guide/what-are-types" },
   ],
 };
 const homeSidebar = {
