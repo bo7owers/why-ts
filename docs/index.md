@@ -22,4 +22,4 @@ This way you know there is an issue before you run your code and add _20 thousad
 
 ## In a nutshell...
 
-More code is less debugging time, especially when dealing with big applications.
+More code now means less time spent debugging in the future, especially when dealing with big applications.

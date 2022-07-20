@@ -7,14 +7,14 @@ const guideSidebar = {
   ],
 };
 const homeSidebar = {
-  text: "Home",
+  text: "Why TypeScript",
   items: [
     { text: "TypeScript vs JavaScript", link: "/" },
     { text: "Installing TypeScript in Vue 3", link: "/ts-vue3" },
   ],
 };
 export default {
-  title: "Why TS?",
+  title: "Intro to TypeScript",
   description: "Quick explanation of the benefits of Typescript",
   themeConfig: {
     nav: [
