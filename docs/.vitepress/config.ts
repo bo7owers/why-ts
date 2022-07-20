@@ -1,5 +1,5 @@
 const guideSidebar = {
-  text: "Guide",
+  text: "Features",
   items: [
     { text: "What are types", link: "/guide/what-are-types" },
     { text: "Types of types", link: "/guide/types-of-types" },
