@@ -18,6 +18,14 @@
 			border: 2px solid #00076c;
 			height: 75px;
 		}
+
+		a {
+			color: pink;
+			text-decoration: underline;
+			&:hover {
+				color: #c1c1c1;
+			}
+		}
 	}
 }
 .dark {

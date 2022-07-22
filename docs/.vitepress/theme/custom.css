@@ -18,6 +18,13 @@
   border: 2px solid #00076c;
   height: 75px;
 }
+.alert-blue a {
+  color: pink;
+  text-decoration: underline;
+}
+.alert-blue a:hover {
+  color: #c1c1c1;
+}
 
 .dark .alert-blue {
   background-color: #1b4166;
