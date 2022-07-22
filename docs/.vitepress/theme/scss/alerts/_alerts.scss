@@ -1,0 +1,30 @@
+.alert {
+	padding: 0.25rem 1rem;
+	margin: 1rem 0;
+	border-radius: 12px;
+	position: relative;
+
+	&-blue {
+		background-color: #369;
+		color: #fff;
+
+		&::before {
+			content: '';
+			display: block;
+			position: absolute;
+			left: -1px;
+			top: 11px;
+			bottom: 0;
+			border: 2px solid #00076c;
+			height: 75px;
+		}
+	}
+}
+.dark {
+	.alert-blue {
+		background-color: #1b4166;
+		&::before {
+			border: 2px solid #010f50;
+		}
+	}
+}

@@ -1,5 +1,9 @@
 # TypeScript vs JavaScript?
 
+<div class="alert alert-blue">
+<p>This is how I understand TS. If you have any suggestions or examples, please <a href="https://github.com/bo7owers/why-ts/" target="_blank" rel="norefer" title="Open in a new tab">create a pr</a>.</p>
+</div>
+
 TypeScript is to JavaScript what SCSS is to CSS. A superset; therefore any valid JS is valid TS.
 
 The same way as SCSS, browsers (and in this case Node), cannot run TS code, you'll need to compile it.
